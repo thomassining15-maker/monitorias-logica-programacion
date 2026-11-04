@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,cursor" alt="tecnologías" />
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" alt="tecnologías" />
 </p>
 
 > 🚧 **Repositorio en preparación.** Lo iré llenando durante el próximo semestre, cuando empiece a dar las monitorías de Lógica de Programación.
